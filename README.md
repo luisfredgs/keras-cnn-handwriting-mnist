@@ -5,6 +5,6 @@ Keras - Rede Neural Convolucional para reconhecimento de dígitos escritos à m�
 
 Rode este código no Google Colab com GPU grátis: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WoQG3QLGxbHrLTvSxdSKYJt182rdMuZx)
+[![Open In Colab](https://colab.research.google.com/drive/1xuoX6al0mm1tmwdk3Y3H7ei1F0g3J9_X?usp=sharing)
 
 Para saber mais sobre machine learning: https://luisfred.com.br
